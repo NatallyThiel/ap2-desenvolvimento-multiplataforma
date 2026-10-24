@@ -19,6 +19,13 @@ Este projeto foi desenvolvido como avaliação prática (AP2) com o objetivo de 
 
 ---
 
+## 📸 Prints funcionais:
+
+### 1. Ingresso Gerado
+![Ingresso Gerado](./img/ingresso-gerado.png)
+
+---
+
 ## 📁 Estrutura de Pastas
 
 ```text
@@ -26,3 +33,4 @@ lib/
 ├── main.dart
 └── telas/
     └── TelaPrincipal.dart
+

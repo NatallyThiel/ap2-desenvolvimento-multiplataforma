@@ -1,0 +1,1 @@
+ C:\\Users\\natal\\OneDrive\\Documents\\GitHub\\ap2-desenvolvimento-multiplataforma\\.dart_tool\\flutter_build\\a52db9d47d4a23b4789469d632dd8adc\\link_hooks_result.json: 
