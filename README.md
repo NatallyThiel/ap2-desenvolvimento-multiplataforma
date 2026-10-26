@@ -24,6 +24,12 @@ Este projeto foi desenvolvido como avaliação prática (AP2) com o objetivo de 
 ### 1. Ingresso Gerado
 ![Ingresso Gerado](./img/ingresso-gerado.png)
 
+### 2. Leitura do QR CODE:
+![Ingresso Gerado](./img/Leitura.png)
+
+### 3. Leitura efetuada com sucesso:
+![Ingresso Gerado](./img/Sucesso.png)
+
 ---
 
 ## 📁 Estrutura de Pastas
